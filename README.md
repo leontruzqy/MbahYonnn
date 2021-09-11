@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Leon Truzqy 
 - 👀 I’m interested in mobile programming
 - 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on Flutter Project
+- ✊ I’m looking to collaborate on Flutter Project
 - 📫 How to reach me by email: Lzainun47@gmail.com
 
 <!---
